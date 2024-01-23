@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="All Tests">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="step01hello">
+        <State />
+      </entry>
+      <entry key="step02activity">
+        <State />
+      </entry>
+      <entry key="step02activity2">
+        <State />
+      </entry>
+      <entry key="step02activity3">
+        <State />
+      </entry>
+      <entry key="step03layout">
+        <State />
+      </entry>
+      <entry key="step04example">
+        <State />
+      </entry>
+      <entry key="step04view">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\acorn\.android\avd\Pixel_6a_API_34.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-18T07:36:49.486402400Z" />
+        </State>
+      </entry>
+      <entry key="step05listview">
+        <State />
+      </entry>
+      <entry key="step06customlistview">
+        <State />
+      </entry>
+      <entry key="test">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
